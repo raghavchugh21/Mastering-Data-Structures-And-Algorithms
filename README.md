@@ -1,2 +1,2 @@
 # Mastering-Data-Structures-And-Algorithms
-My Journey of learning basic to advanced concepts of data structures and algorithms
+This repository captures my journey of learning basic to advanced concepts of data structures and algorithms
